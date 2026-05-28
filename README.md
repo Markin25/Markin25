@@ -1,7 +1,7 @@
 👋 Olá, eu sou Marcos Paulo
 
 💻 Desenvolvedor focado em Backend e APIs
-📚 Estudante de Engenharia de Software
+📚 Estudante de Ciência da Computação
 ☁️ Experiência com AWS (EC2, ECS, S3 e RDS)
 ⚙️ Trabalhando com RBAC, APIs REST e aplicações web
 🚀 Construindo projetos para evoluir em Java, Spring Boot e Cloud
