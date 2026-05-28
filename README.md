@@ -1,10 +1,12 @@
-👋 Olá, eu sou Marcos Paulo
+# 👋 Olá, eu sou Marcos Paulo
 
-💻 Desenvolvedor focado em Backend e APIs
-📚 Estudante de Ciência da Computação
-☁️ Experiência com AWS (EC2, ECS, S3 e RDS)
-⚙️ Trabalhando com RBAC, APIs REST e aplicações web
-🚀 Construindo projetos para evoluir em Java, Spring Boot e Cloud
+💻 Desenvolvedor focado em Backend e APIs  
+🎓 Estudante de Ciência da Computação  
+☁️ Experiência com AWS (EC2, ECS, S3 e RDS)  
+⚙️ Trabalhando com RBAC, APIs REST e aplicações web  
+🚀 Evoluindo em Java, Spring Boot e Cloud Computing  
+
+---
 
 # 🚀 Tecnologias
 
@@ -29,6 +31,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-📫 Contato
-LinkedIn: linkedin.com/in/marcospetrolini
-Email: marcospetrolini25@gmail.com
+---
+
+# 📊 GitHub Stats
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Markin25&show_icons=true&theme=tokyonight)
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/marcospetrolini  
+📧 Email: marcospetrolini25@gmail.com
